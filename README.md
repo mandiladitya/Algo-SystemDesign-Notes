@@ -13,3 +13,14 @@ The following table shows how algorithms with different complexities scale when 
 |O(2^N)     |1|1024    |1267650600228229401496703205376|       
 |O(N!)      |1|3628800 |doesn't fit on screen! |
 
+```
+#include <bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    return 0;
+}
+```
