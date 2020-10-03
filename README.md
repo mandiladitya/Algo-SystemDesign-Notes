@@ -8,6 +8,14 @@ My Solutions and Some Revision Materials
 * A number is Fibonacci if and only if one or both of (5*n2 + 4) or (5*n2 – 4) is a perfect square 
 * Cassini’s Identity : f(n-1)*f(n+1) - f(n*n) = (-1)^n 
 ```
+## Reverse Array INPLACE 
+```
+a=[1,2,3,4,5,6]
+n=len(a)
+for i in range(len(a)//2):
+  a[i],a[n-i-1]=a[n-i-1],a[i]
+print(a)
+```
 ## Scalability
 The following table shows how algorithms with different complexities scale when given different numbers of inputs. Note: some values are rounded.
 
