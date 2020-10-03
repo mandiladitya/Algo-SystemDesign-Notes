@@ -16,6 +16,29 @@ for i in range(len(a)//2):
   a[i],a[n-i-1]=a[n-i-1],a[i]
 print(a)
 ```
+## Find any Pair with Given GCD & LCM O(1)
+```
+Observe that the 
+lcm is always divisible by gcd,
+ hence the answer can be obtained in O(1). 
+One of the numbers will be the gcd G itself 
+and the other will be the lcm L
+
+#include <iostream> 
+using namespace std; 
+void printPair(int g, int l) 
+{ 
+cout << g << " " << l; 
+} 
+int main() 
+{ 
+    int g = 3, l = 12; 
+    printPair(g, l); 
+    return 0; 
+} 
+
+O(1)
+```
 ## Scalability
 The following table shows how algorithms with different complexities scale when given different numbers of inputs. Note: some values are rounded.
 
