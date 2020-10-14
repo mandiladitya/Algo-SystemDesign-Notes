@@ -2,6 +2,7 @@
 My Solutions and Some Revision Materials
 
 [BIT TRICKS USED IN PROGRAMMING](https://github.com/mandiladitya/Programming-STUFF/blob/main/BIT_Tricks.md)
+[Graphs Points](https://github.com/mandiladitya/Programming-STUFF/blob/main/Graphs/Graphs.md)
 
 ## Useful Tricks 
 ```
