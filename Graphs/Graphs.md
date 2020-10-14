@@ -55,4 +55,12 @@ We can augment either BFS or DFS when we first discover a new vertex, color it o
 4) ADJ. list with n vertices & e edges ```E!```
 5) Graph with n vertices ``` Number of Trees n^(n-2) (Arthur Cayley ) ```
 6) DFS has ```lower memory requirements than ``` BFS
+```
+An undirected graph is tree if it has following properties. 
+1) There is no cycle. 
+2) The graph is connected.
+For an undirected graph we can either use BFS or DFS to detect above two properties.```
+
+```
+
 
