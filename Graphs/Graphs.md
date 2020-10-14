@@ -1,4 +1,5 @@
 # Graphs 
+------------------------------
 ## Applications of Depth First Search
 1) For a weighted graph, DFS traversal of the graph produces the minimum spanning tree and all pair shortest path tree.
 
@@ -47,4 +48,11 @@ We can augment either BFS or DFS when we first discover a new vertex, color it o
 
 12) Finding all nodes within one connected component: We can either use Breadth First or Depth First Traversal to find all nodes reachable from a given node.
 --------------------------------------------------------------------------------------
+## FUN FACTS 
+1) In Undirected Graph ``` E range from 0 to |v|(|V|-1)/2```
+2) For Shortest Path ``` We Only Use BFS ```
+3) ADJ. MaT with n vertices & e edges ```n!```
+4) ADJ. list with n vertices & e edges ```E!```
+5) Graph with n vertices ``` Number of Trees n^(n-2) (Arthur Cayley ) ```
+6) DFS has ```lower memory requirements than ``` BFS
 
