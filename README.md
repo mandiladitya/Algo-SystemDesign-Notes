@@ -7,7 +7,7 @@ My Solutions and Some Revision Materials
 
 ## Useful Tricks 
 ```
-* A number is Fibonacci if and only if one or both of (5*n2 + 4) or (5*n2 – 4) is a perfect square 
+* A number is Fibonacci if and only if one or both of (5*n^2 + 4) or (5*n^2 – 4) is a perfect square 
 * Cassini’s Identity : f(n-1)*f(n+1) - f(n*n) = (-1)^n 
 ```
 ## Reverse Array INPLACE 
