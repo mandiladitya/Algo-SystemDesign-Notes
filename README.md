@@ -18,6 +18,11 @@ for i in range(len(a)//2):
   a[i],a[n-i-1]=a[n-i-1],a[i]
 print(a)
 ```
+## Matrix Input in Python 
+```
+mat = [[int(input()) for x in range (C)] for y in range(R)]
+
+```
 ## Pairwise Swapping 
 ```
 n=list(map(int,input().split()))
