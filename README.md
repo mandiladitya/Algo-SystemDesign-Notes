@@ -18,6 +18,14 @@ for i in range(len(a)//2):
   a[i],a[n-i-1]=a[n-i-1],a[i]
 print(a)
 ```
+## Pairwise Swapping 
+```
+n=list(map(int,input().split()))
+l=len(n)&-2
+for i in range(0,l,2):
+    n[i],n[i+1]=n[i+1],n[i]
+print(n)
+```
 ## Find any Pair with Given GCD & LCM O(1)
 ```
 Observe that the 
