@@ -82,5 +82,5 @@ int main()
     return 0;
 }
 ```
-## Others OpenSource Materials :
-* https://github.com/mtdvio/every-programmer-should-know
+## Others OpenSource Materials :books: :
+:diamond: https://github.com/mtdvio/every-programmer-should-know
