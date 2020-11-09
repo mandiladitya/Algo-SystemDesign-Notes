@@ -7,8 +7,8 @@ Tricks, Solutions and Some Revision Materials  :books:
 
 :memo: [Some Important Points](https://github.com/mandiladitya/Preparation_Stuff/blob/main/SomePoints.md)
 
-:books: [System Design Notes](https://github.com/mandiladitya)
---------------
+:books: [System Design Notes](https://github.com/mandiladitya/Algorithms_Hub/tree/main/System%20Design)
+-------------
 # Useful Tricks :green_book:
 ```
 * A number is Fibonacci if and only if one or both of (5*n^2 + 4) or (5*n^2 – 4) is a perfect square 
