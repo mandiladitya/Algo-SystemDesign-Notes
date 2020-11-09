@@ -83,4 +83,4 @@ int main()
 }
 ```
 ## Others OpenSource Materials :books: :
-:small_blue_diamond: [ Things Every programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+:small_orange_diamond: [ Things Every programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
