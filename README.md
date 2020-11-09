@@ -1,5 +1,5 @@
 # Interview Things :books:
-My Solutions and Some Revision Materials :books:
+Tricks, Solutions and Some Revision Materials  :books:
 
 :notebook:[Bit Tricks Notes](https://github.com/mandiladitya/Programming-STUFF/blob/main/BIT_Tricks.md)
 
