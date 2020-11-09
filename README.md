@@ -5,6 +5,8 @@ My Solutions and Some Revision Materials :blue_book:
 
 :blue_book: [Graphs Points](https://github.com/mandiladitya/Programming-STUFF/blob/main/Graphs/Graphs.md)
 
+:memo: [Some Important Points](https://github.com/mandiladitya/Preparation_Stuff/blob/main/SomePoints.md)
+
 ## Useful Tricks 
 ```
 * A number is Fibonacci if and only if one or both of (5*n^2 + 4) or (5*n^2 – 4) is a perfect square 
