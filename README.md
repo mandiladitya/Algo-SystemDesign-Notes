@@ -1,9 +1,9 @@
 # Programming-Stuff
 My Solutions and Some Revision Materials :blue_book:
 
-:blue_book:[BIT TRICKS USED IN PROGRAMMING](https://github.com/mandiladitya/Programming-STUFF/blob/main/BIT_Tricks.md)
+:blue_book:[Bit Tricks Notes](https://github.com/mandiladitya/Programming-STUFF/blob/main/BIT_Tricks.md)
 
-:blue_book: [Graphs Points](https://github.com/mandiladitya/Programming-STUFF/blob/main/Graphs/Graphs.md)
+:blue_book: [Graphs Notes](https://github.com/mandiladitya/Programming-STUFF/blob/main/Graphs/Graphs.md)
 
 :memo: [Some Important Points](https://github.com/mandiladitya/Preparation_Stuff/blob/main/SomePoints.md)
 
