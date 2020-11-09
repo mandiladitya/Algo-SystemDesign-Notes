@@ -6,3 +6,10 @@
 #### 6) If there are n nodes then ```2^n-n different trees ```
 #### 7) Mini no. Of swap - Selection Sort
 #### 8) Quicksort on already sorted array gives worst case.
+#### 9) MergeSort is better for Linked List
+```
+● C qsort() -- Quicksort 
+● C++ sort() -- Introsort ( Hybrid of Quick, Heap and MergeSort)
+● C++ stable_sort() -- MergeSort
+● Python sorted() -- TimSort ( Merge + Insertion Sort)
+```
