@@ -35,12 +35,12 @@ for i in range(0,l,2):
 print(n)
 ```
 ## Find any Pair with Given GCD & LCM O(1)
-```
-Observe that the 
-lcm is always divisible by gcd,
- hence the answer can be obtained in O(1). 
-One of the numbers will be the gcd G itself 
-and the other will be the lcm L
+```diff
++ Observe that the 
++ lcm is always divisible by gcd,
++ hence the answer can be obtained in O(1). 
++ One of the numbers will be the gcd G itself 
++ and the other will be the lcm L
 
 #include <iostream> 
 using namespace std; 
