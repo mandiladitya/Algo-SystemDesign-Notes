@@ -7,6 +7,7 @@ Tricks, Solutions and Some Revision Materials  :books:
 
 :memo: [Some Important Points](https://github.com/mandiladitya/Preparation_Stuff/blob/main/SomePoints.md)
 
+:books: [System Design Notes](https://github.com/mandiladitya)
 --------------
 # Useful Tricks :green_book:
 ```
