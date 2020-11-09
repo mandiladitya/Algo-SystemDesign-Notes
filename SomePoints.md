@@ -13,3 +13,4 @@
 ● C++ stable_sort() -- MergeSort
 ● Python sorted() -- TimSort ( Merge + Insertion Sort)
 ```
+#### 10) Formula of Min No. Of comparison required to find Min and Max of n numbers ``` 3n/2 - 3 ```
