@@ -1,13 +1,14 @@
 # Interview Things :books:
 Tricks, Solutions and Some Revision Materials  :books:
 
-:notebook:[Bit Tricks Notes](https://github.com/mandiladitya/Programming-STUFF/blob/main/BIT_Tricks.md)
+:notebook: [Bit Tricks Notes](https://github.com/mandiladitya/Programming-STUFF/blob/main/BIT_Tricks.md)
 
 :blue_book: [Graphs Notes](https://github.com/mandiladitya/Programming-STUFF/blob/main/Graphs/Graphs.md)
 
 :memo: [Some Important Points](https://github.com/mandiladitya/Preparation_Stuff/blob/main/SomePoints.md)
 
-## Useful Tricks :sparkles:
+--------------
+# Useful Tricks :green_book:
 ```
 * A number is Fibonacci if and only if one or both of (5*n^2 + 4) or (5*n^2 – 4) is a perfect square 
 * Cassini’s Identity : f(n-1)*f(n+1) - f(n*n) = (-1)^n 
