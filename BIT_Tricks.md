@@ -1,3 +1,5 @@
+
+`#C6E48B` `#7AC96F` `#249A3C` `#196127`
 # Integers
 **Set n<sup>th</sup> bit**
 ```
