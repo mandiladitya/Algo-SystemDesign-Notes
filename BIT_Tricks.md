@@ -1,5 +1,8 @@
 
-`#C6E48B` `#7AC96F` `#249A3C` `#196127`
+<kbd>ALT</kbd>+<kbd>F4</kbd>
+
+`#17202A` 
+
 # Integers
 **Set n<sup>th</sup> bit**
 ```
